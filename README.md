@@ -1,8 +1,8 @@
-- 👋 Hi, I’m mohamadou alhadji by this time i am about to graduate my Bachelor degree on computer Science and Engineering in IUT-Dhaka-Bangladesh.
+- 👋 Hi, I’m mohamadou alhadji passionate on software development by this time i am about to graduate my Bachelor degree on computer Science and Engineering in IUT-Dhaka-Bangladesh.
 - 👀 I’m interested in Android and Web app development
 - 🌱 I’m currently learning restful api, docker and software design pattern
 - 💞️ I’m looking to collaborate on application development
-- 📫 How to reach me: alhadjitech@gmail.com/  on facebook: M alhadji
+- 📫 How to reach me: alhadjitech@gmail.com/  on facebook: M Alhadji
 
 <!---
 alhadji1/alhadji1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
